@@ -6,3 +6,6 @@
 ### blog
 - [Loki`s Blog](http://whysodiao.com/)
 - [Flutter开发者](http://flutter.link/)
+
+### book
+- [Flutter实战](https://book.flutterchina.club/)
